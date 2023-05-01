@@ -1,4 +1,5 @@
 # Cafe Management System
+A full stack app (back-end app) being an API that may serve for management of a café shop. You can interact with API endpoints using Postman (3rd party app) or through front app(building by angular).
 
 Key features
 ---------------------------------------
